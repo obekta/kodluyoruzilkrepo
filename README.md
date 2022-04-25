@@ -19,3 +19,5 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 [MIT](https://opensource.org/licenses/MIT)
 
 ![Proje Resmi](Screenshot409.png)
+
+www.patika.dev
