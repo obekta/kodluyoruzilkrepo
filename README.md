@@ -18,4 +18,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 ## License
 [MIT](https://opensource.org/licenses/MIT)
 
-![Proje Resmi](https://www.hizliresim.com/ihu1p57)
+![Proje Resmi](Screenshot409.png)
